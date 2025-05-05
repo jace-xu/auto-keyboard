@@ -1,4 +1,4 @@
-This is a program for "批改网“.
+This is a program for students.
 
 some professors don't allow you to paste your eassay
 
